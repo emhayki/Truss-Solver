@@ -26,5 +26,5 @@ To run the 2D Truss Problem Solver, Python must be installed on your system, alo
 - Input the geometry of the truss structure, including nodes and members.
 - Specify loads and boundary conditions.
 - Run the analysis to calculate nodal displacements and member forces.
-- View the resulting analysis in both graphical and tabular forms.
+- View the resulting analysis.
 
