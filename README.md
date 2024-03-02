@@ -21,13 +21,8 @@ To run the 2D Truss Problem Solver, Python must be installed on your system, alo
 - `matplotlib`
 - `tkinter` (should be included with Python)
 
-### Usage
-- Input the geometry of the truss structure, including nodes and members.
-- Specify loads and boundary conditions.
-- Run the analysis to calculate nodal displacements and member forces.
-- View the resulting analysis.
 
-## Example Usage
+## Example
 
 The example below demonstrates how to analyse a truss with the 2D Truss Problem Solver.
 
@@ -48,3 +43,6 @@ Move to the 'Calculation' tab to calculate the global stiffness matrix, displace
 Navigate to the 'Figure' tab to view the structure. It displays nodes, elements, applied displacements, and point loads.
 <img width="1072" alt="t3" src="https://github.com/emhayki/Truss-Solver/assets/135982304/5b96dc53-6685-48f2-9593-126dd4bb34bb">
 
+### Disclaimer:
+
+While this app might not be winning any beauty contests, it certainly gets the job done! Maybe it'll get a makeover one day (or maybe not). For now, let's just appreciate its functionality! 🚀
